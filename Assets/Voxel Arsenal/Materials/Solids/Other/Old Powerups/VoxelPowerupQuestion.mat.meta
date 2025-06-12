@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87cb84577b705fe44bb43e28183d4ee7
+timeCreated: 1541899469
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Materials/Solids/Other/Old Powerups/VoxelPowerupQuestion.mat
+  uploadId: 476195

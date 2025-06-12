@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c914607a911d66b4481caeef2707d896
+timeCreated: 1544708701
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Sparks/Once/SparkRadialOnceBlue.prefab
+  uploadId: 476195

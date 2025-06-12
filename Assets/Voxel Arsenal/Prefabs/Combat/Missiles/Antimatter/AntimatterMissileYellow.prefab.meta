@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc20e463e5fa08d4ba810569a8234745
+timeCreated: 1542896044
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Antimatter/AntimatterMissileYellow.prefab
+  uploadId: 476195

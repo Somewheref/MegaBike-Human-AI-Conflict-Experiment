@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1de9c5649661b25408d0fadf63dfb858
+timeCreated: 1542212656
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Weather/Fog/FogDark.prefab
+  uploadId: 476195

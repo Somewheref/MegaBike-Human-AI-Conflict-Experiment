@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 014b45aabdfb0a7418eda39ffc71220a
+timeCreated: 1546369531
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Sound/Prefabs/Explosions/VoxelLiquidLavaExplosionSND.prefab
+  uploadId: 476195

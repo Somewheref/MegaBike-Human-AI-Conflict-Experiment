@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68203f6126bf0cf429603c0666168d50
+timeCreated: 1544376202
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Powerup/PickupActivate/PickupActivatePink.prefab
+  uploadId: 476195

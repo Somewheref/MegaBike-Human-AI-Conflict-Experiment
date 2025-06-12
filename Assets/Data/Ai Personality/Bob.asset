@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e8633f000174d40ae00069e9d760ea, type: 3}
+  m_Name: Bob
+  m_EditorClassIdentifier: 
+  isPlayer: 0
+  aiName: Bob
+  aiDescription: You are a cool-headed, rational guy, trusting your own judgement
+    more than anything else.
+  eyeSprite: {fileID: 21300000, guid: a74e93b2336154842a233a8586f3064f, type: 3}
+  bodySpriteFill: {fileID: 21300000, guid: a1df0ab3f3589bd4fa33490722db763a, type: 3}
+  bodySpriteOutline: {fileID: 21300000, guid: f318a558b7e470c409e940915f63e899, type: 3}
+  agentColor: 3
+  decisionUpdateInterval: 1
+  volatility: 0.074
+  valueLerpSpeed: 5
+  lazyness: 0.456
+  hungerAdditionalLazyness: 0.237
+  determination: 0.25
+  selfishness: 0.401
+  selfishWorkMultiplier: 1.06
+  hugerAdditionalSelfishness: 0.455
+  agreeable: 0.637
+  agreeableMultiplier: 0.83

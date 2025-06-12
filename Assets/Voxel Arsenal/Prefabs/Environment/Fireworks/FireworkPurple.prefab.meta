@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e46daff91a477846aa8611b94d392c3
+timeCreated: 1544282553
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Fireworks/FireworkPurple.prefab
+  uploadId: 476195

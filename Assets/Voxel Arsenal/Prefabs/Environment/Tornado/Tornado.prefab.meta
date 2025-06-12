@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93216d197cc19f64bb18491762577ca1
+timeCreated: 1538064083
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Tornado/Tornado.prefab
+  uploadId: 476195

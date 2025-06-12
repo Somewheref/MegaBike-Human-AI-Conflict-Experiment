@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6eab9aef68a7c046bc449ef887d54da
+timeCreated: 1537493116
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Liquid/LiquidLavaMuzzle.prefab
+  uploadId: 476195

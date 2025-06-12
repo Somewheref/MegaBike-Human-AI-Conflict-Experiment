@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7f30e4d4b2fd6d4f8906d148cefada6
+timeCreated: 1542641546
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Grenade/GrenadeExplosionPurple.prefab
+  uploadId: 476195

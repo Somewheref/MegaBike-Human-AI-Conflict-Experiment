@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84d94e3855a3e2243b004b86c0f5084a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Prefabs/Scene Setup/MissileDemoSceneSetup.prefab
+  uploadId: 476195

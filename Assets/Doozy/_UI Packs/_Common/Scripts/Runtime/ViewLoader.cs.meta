@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2f119bd47855244dad5e235a0d07f10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236341
+  packageName: UI Pack - Neumorph 1 - Doozy UI Addon
+  packageVersion: 2.0.1
+  assetPath: Assets/Doozy/_UI Packs/_Common/Scripts/Runtime/ViewLoader.cs
+  uploadId: 611681

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0d8b3906f4aa6924d82b42da931bd31e
+timeCreated: 1531745441
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Scripts/VoxelBeamScript.cs
+  uploadId: 476195

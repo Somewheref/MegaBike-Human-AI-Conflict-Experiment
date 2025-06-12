@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b4f5e399ac247e46b277bd12db62a98
+timeCreated: 1540591387
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Liquid/Acid/WaterfallAcidSmall.prefab
+  uploadId: 476195

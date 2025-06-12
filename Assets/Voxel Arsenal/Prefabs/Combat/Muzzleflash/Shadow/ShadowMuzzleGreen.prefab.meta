@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 933e86fd2f073794a8da4bcd3b3c9ed7
+timeCreated: 1544220218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Shadow/ShadowMuzzleGreen.prefab
+  uploadId: 476195

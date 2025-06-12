@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4a705047fdf3f7418abc45735727f19
+timeCreated: 1537052242
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Sniper/SniperMuzzleBlue.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3fed9cbf4a54d914b9ab1b241e74cef6
+timeCreated: 1531598920
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Materials/floor.mat
+  uploadId: 476195

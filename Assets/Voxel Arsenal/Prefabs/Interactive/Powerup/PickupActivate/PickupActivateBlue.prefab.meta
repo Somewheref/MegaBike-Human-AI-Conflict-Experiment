@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8cb087f3a3c92f54186e0f20e349dfe1
+timeCreated: 1540250321
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Powerup/PickupActivate/PickupActivateBlue.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d80b399ce7344e4b9042482d7005dad
+timeCreated: 1544221009
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Spike/SpikeMuzzlePurple.prefab
+  uploadId: 476195

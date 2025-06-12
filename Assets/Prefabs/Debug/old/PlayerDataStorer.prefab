@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &676489086608490662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5788962008796633441}
+  - component: {fileID: 794647814689782092}
+  m_Layer: 0
+  m_Name: PlayerDataStorer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5788962008796633441
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676489086608490662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &794647814689782092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676489086608490662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce2308601e2d4944b83eec7d257fbedb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerPersonalitySO: {fileID: 11400000, guid: 94c836737abd6f447bd6f5ddf8978209, type: 2}
+  agentInfoList:
+  - agentName: Chara
+    bikeSeatIndex: 1
+    agentHP: 0.85592645
+    aiPersonality: {fileID: 11400000, guid: 94c836737abd6f447bd6f5ddf8978209, type: 2}
+    eyeSprite: {fileID: 21300000, guid: 90451ee760819014b836256c65d0e4de, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: ea94e6098df59384e9be1cdeb8520013, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: 5e21164d2f7fc434980758a4bfb6c8a5, type: 3}
+    lootboxCollected: 0
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  - agentName: Bob
+    bikeSeatIndex: 2
+    agentHP: 0.8811168
+    aiPersonality: {fileID: 11400000, guid: e7b7d80abdfe0b94ba7ee5c6b09d8947, type: 2}
+    eyeSprite: {fileID: 21300000, guid: a74e93b2336154842a233a8586f3064f, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: f318a558b7e470c409e940915f63e899, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: a1df0ab3f3589bd4fa33490722db763a, type: 3}
+    lootboxCollected: 3
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  - agentName: Alice
+    bikeSeatIndex: 3
+    agentHP: 0.8022071
+    aiPersonality: {fileID: 11400000, guid: e549969b7c0324f4a91961c7c4187673, type: 2}
+    eyeSprite: {fileID: 21300000, guid: 63c3dbdff7153364f837b3f5e8992cbd, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: ea94e6098df59384e9be1cdeb8520013, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: 5e21164d2f7fc434980758a4bfb6c8a5, type: 3}
+    lootboxCollected: 0
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  - agentName: Eli
+    bikeSeatIndex: 4
+    agentHP: 0.98777026
+    aiPersonality: {fileID: 11400000, guid: 40225db67bab9bb448851319de2906a9, type: 2}
+    eyeSprite: {fileID: 21300000, guid: 656456081c68bbd48a0e31a677b4e65d, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: 9aac0cfc2005f47418fa3602995a99c2, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: a32e84b6f730b634a990eff37628d4d4, type: 3}
+    lootboxCollected: 1
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  - agentName: Niko
+    bikeSeatIndex: 5
+    agentHP: 0.95369285
+    aiPersonality: {fileID: 11400000, guid: 8d889d2afdd48f94e9a4e6e8e653d4bb, type: 2}
+    eyeSprite: {fileID: 21300000, guid: bf63617bf8d3f204687c63aa0f946533, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: f318a558b7e470c409e940915f63e899, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: a1df0ab3f3589bd4fa33490722db763a, type: 3}
+    lootboxCollected: 2
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  - agentName: Cathy
+    bikeSeatIndex: 6
+    agentHP: 0.8022071
+    aiPersonality: {fileID: 11400000, guid: 774c8262f70d4ad40b2eeec324c294f0, type: 2}
+    eyeSprite: {fileID: 21300000, guid: 7cdd36747eec0684089d52c324a062d3, type: 3}
+    bodyCustomization:
+      bodySprite: {fileID: 21300000, guid: d5b119e821a47af4ebfe25911797be88, type: 3}
+      bodyFillSprite: {fileID: 21300000, guid: 84fc74d5dd759fa4c9930d054006addf, type: 3}
+    lootboxCollected: 0
+    input: {fileID: 0}
+    agentCharacter: {fileID: 0}
+    isDead: 0
+  aiPersonalityList:
+  - {fileID: 11400000, guid: e7b7d80abdfe0b94ba7ee5c6b09d8947, type: 2}
+  - {fileID: 11400000, guid: e549969b7c0324f4a91961c7c4187673, type: 2}
+  - {fileID: 11400000, guid: 40225db67bab9bb448851319de2906a9, type: 2}
+  - {fileID: 11400000, guid: 8d889d2afdd48f94e9a4e6e8e653d4bb, type: 2}
+  - {fileID: 11400000, guid: 774c8262f70d4ad40b2eeec324c294f0, type: 2}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b0b8e5d1ef102042bfdae02252b130a
+timeCreated: 1532368244
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Misc/Shockwave2.prefab
+  uploadId: 476195

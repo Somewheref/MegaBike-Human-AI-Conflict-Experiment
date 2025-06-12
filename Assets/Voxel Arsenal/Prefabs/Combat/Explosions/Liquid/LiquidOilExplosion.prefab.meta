@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d4208158b99b0344c83fe0e6b7034697
+timeCreated: 1537059622
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Liquid/LiquidOilExplosion.prefab
+  uploadId: 476195

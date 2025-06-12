@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e0fd2b9dd53ab35478b876ec07f50954
+timeCreated: 1538676549
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Nova/PlasmaNova.prefab
+  uploadId: 476195

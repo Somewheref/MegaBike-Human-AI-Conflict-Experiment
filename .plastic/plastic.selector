@@ -1,0 +1,4 @@
+repository "MegaBike@Stanlysheeep@cloud"
+  path "/"
+    br "/main"
+    co "/main"

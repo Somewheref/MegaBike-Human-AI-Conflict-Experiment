@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a480ee8f7aaa3c4397034f9b5bded35
+timeCreated: 1545445484
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Melee & Sword/SwordTrail/SwordTrailYellow.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cb667adb089f4d43b7ff2178d773629
+timeCreated: 1541902123
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Treasure/Stars/StarSpinningBlue.prefab
+  uploadId: 476195

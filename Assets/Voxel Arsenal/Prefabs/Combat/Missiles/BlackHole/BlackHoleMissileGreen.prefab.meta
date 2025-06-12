@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46f730390d22f71438addd2a900168ab
+timeCreated: 1542896215
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/BlackHole/BlackHoleMissileGreen.prefab
+  uploadId: 476195

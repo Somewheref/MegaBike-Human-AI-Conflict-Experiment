@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 969f970a57970c7448b9c441ee695e40, type: 3}
+  m_Name: GPT_Config
+  m_EditorClassIdentifier: 
+  gptKey: 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
+  model: gpt-4o
+  gameBackground: "Every player shares Megabike in a cartoonish grassland setting.
+    Each agent including the human participant makes independent decisions about
+    \u201Cpedaling direction\u201D and \u201Cpower,\u201D which are then aggregated
+    to determine the bike\u2019s movement. Pedaling at higher strength depletes stamina
+    more quickly, encouraging strategic trade-offs between selfish and team-oriented
+    actions (adapted from our prior Megabike work). Colored loot boxes appear on
+    the map; only the agent whose color matches the loot box can claim it to replenish
+    stamina. If the player\u2019s desired loot box lies off the team\u2019s current
+    trajectory, they face a dilemma: maintain group cohesion or break away for personal
+    gain. "
+  votingPrompt: "However, after a while a threatening monster (\u201COwdi\u201D)
+    crashes into the bike, and the game declares that one sacrifice is required to
+    save the team. Each agent\u2014including the human\u2014casts a public vote to
+    choose who will be sacrificed and must provide a brief reason. "

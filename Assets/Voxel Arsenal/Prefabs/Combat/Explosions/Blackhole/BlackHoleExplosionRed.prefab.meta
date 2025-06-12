@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6359075293fd3e84485440a71143b48a
+timeCreated: 1542640814
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Blackhole/BlackHoleExplosionRed.prefab
+  uploadId: 476195

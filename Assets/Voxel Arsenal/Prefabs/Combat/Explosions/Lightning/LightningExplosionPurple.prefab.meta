@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6e45eb3bba0ca44a8db1a53efd8c237
+timeCreated: 1542643076
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Lightning/LightningExplosionPurple.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42f45ad9fe83720459fb7c45f68205fd
+timeCreated: 1542822960
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Spike/SpikeExplosionYellow.prefab
+  uploadId: 476195

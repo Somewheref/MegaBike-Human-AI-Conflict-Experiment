@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14eb9167ea2f5384d8c52a3306c32e29
+timeCreated: 1531600110
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Materials/Solids/Other/VoxelTornado.mat
+  uploadId: 476195

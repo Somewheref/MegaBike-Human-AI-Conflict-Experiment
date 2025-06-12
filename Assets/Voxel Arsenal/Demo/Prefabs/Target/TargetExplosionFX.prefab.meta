@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49e592951a704064084245f9b3fb217c
+timeCreated: 1533764779
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Prefabs/Target/TargetExplosionFX.prefab
+  uploadId: 476195

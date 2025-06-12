@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e8abcec203a5ef4e94805b79d50f1c3
+timeCreated: 1544630317
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Trails/FireTrail.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdc2584b28f73514889485e5a803cc5a
+timeCreated: 1541948676
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Treasure/Coins/CoinSmallSpinningGold.prefab
+  uploadId: 476195

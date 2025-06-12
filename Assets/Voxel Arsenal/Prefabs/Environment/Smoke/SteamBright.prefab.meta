@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7f0b9f963beffa4fa00ec2b158b5fed
+timeCreated: 1547221419
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Smoke/SteamBright.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4919ecedded4c4e4f8a5124ce9be81f8
+timeCreated: 1546374258
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Sound/Prefabs/Missiles/VoxelAntimatterMissileSND.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 128f94d60fcb7fb47b4d2e97fbf9996e
+timeCreated: 1532364460
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/BeamUp/BeamUpYellow.prefab
+  uploadId: 476195

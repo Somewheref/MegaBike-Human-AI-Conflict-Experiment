@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3207710856200334c9fdb314578c74f7
+timeCreated: 1547675920
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Prefabs/GUI/CanvasMissiles.prefab
+  uploadId: 476195

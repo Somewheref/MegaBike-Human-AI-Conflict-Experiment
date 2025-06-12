@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0997de51c3e02bd498ddccf577fbe997
+timeCreated: 1542641602
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Grenade/GrenadeExplosionRed.prefab
+  uploadId: 476195

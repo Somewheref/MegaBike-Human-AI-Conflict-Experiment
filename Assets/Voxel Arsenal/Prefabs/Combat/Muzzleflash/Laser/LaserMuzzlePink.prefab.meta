@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c89c358a5c304e348819a9705a2cf82f
+timeCreated: 1544198751
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Laser/LaserMuzzlePink.prefab
+  uploadId: 476195

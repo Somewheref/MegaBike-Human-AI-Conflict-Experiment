@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 292ddd407aa03a143a2a7b2064abb74e
+timeCreated: 1543589118
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Ring/RingMissileGreen.prefab
+  uploadId: 476195

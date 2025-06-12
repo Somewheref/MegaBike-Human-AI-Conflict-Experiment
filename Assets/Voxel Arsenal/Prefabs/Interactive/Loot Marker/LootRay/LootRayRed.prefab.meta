@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a06346a1700ef6e40a90eabda71c8b41
+timeCreated: 1544285133
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Loot Marker/LootRay/LootRayRed.prefab
+  uploadId: 476195

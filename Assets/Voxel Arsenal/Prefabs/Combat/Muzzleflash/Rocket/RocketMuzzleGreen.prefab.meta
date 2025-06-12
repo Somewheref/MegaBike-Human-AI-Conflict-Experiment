@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0b8239e2bb9e1f4f83cb8de7a187438
+timeCreated: 1544219067
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Rocket/RocketMuzzleGreen.prefab
+  uploadId: 476195

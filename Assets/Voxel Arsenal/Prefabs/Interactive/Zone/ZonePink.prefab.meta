@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a43ae7773b7d3c041a2977aab3908aeb
+timeCreated: 1544377501
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Zone/ZonePink.prefab
+  uploadId: 476195

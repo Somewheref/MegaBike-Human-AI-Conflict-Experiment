@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90ba239ec660e104e94b79547f890cec
+timeCreated: 1540820866
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/BlackHole/BlackHoleMuzzleBlue.prefab
+  uploadId: 476195

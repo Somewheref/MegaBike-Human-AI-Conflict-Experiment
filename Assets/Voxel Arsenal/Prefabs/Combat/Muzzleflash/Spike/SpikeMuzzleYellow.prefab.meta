@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e1a9a190b9885541bde2f13fe790bab
+timeCreated: 1544221004
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Spike/SpikeMuzzleYellow.prefab
+  uploadId: 476195

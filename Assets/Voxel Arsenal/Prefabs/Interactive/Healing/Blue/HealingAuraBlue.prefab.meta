@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfba83b9cb8031947b0d3670533d4c47
+timeCreated: 1547562039
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Healing/Blue/HealingAuraBlue.prefab
+  uploadId: 476195

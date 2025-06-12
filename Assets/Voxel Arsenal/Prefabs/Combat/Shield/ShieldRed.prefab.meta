@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 130bb907c50fcc64bb8de0ed764d9d90
+timeCreated: 1544279407
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Shield/ShieldRed.prefab
+  uploadId: 476195

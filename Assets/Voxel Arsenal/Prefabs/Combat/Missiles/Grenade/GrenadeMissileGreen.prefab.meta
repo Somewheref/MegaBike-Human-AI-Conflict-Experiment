@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f24c6f50524ed5e489f1bc57158df064
+timeCreated: 1543337533
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Grenade/GrenadeMissileGreen.prefab
+  uploadId: 476195

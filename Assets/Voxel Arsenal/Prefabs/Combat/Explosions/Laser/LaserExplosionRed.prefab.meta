@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ab1e2905165feb4694605122efe1a88
+timeCreated: 1542641803
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Laser/LaserExplosionRed.prefab
+  uploadId: 476195

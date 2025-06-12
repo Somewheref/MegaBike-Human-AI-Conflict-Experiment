@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 66de1b46a882df8419da5e3fc87bf35d
+timeCreated: 1542822248
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Sparkle/SparkleExplosionPurple.prefab
+  uploadId: 476195

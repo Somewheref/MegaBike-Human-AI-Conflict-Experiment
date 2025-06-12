@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a7729f62360ae242bf7d7a67a36557e
+timeCreated: 1544377347
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Spawn/SpawnPurple.prefab
+  uploadId: 476195

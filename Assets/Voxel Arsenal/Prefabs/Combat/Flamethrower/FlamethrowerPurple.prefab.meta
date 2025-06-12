@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a57a2e3cdb2614d4ea1c2ebf3487528d
+timeCreated: 1542823915
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Flamethrower/FlamethrowerPurple.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e99f907e64f95f340803e16cb5675413
+timeCreated: 1544193409
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Spike/SpikeMissileRed.prefab
+  uploadId: 476195

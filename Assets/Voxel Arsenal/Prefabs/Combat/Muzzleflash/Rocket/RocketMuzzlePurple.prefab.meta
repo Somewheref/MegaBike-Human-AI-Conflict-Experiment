@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92dfef5d6e786c1419be3a64b01fb3e7
+timeCreated: 1544219064
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Rocket/RocketMuzzlePurple.prefab
+  uploadId: 476195

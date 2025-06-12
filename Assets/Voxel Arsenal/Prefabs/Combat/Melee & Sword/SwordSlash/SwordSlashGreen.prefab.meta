@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f305e18aed9bb25468785a69f014ad52
+timeCreated: 1545624157
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Melee & Sword/SwordSlash/SwordSlashGreen.prefab
+  uploadId: 476195

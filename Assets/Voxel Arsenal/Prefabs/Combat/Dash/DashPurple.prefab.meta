@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77f63439ac676c24f817038efdf9fd25
+timeCreated: 1542570845
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Dash/DashPurple.prefab
+  uploadId: 476195

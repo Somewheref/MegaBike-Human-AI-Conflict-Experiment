@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25a6f920fe656f14c88d7e1b52a49b51
+timeCreated: 1542822910
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Spike/SpikeExplosionPink.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 009ed1d7f3b1596429d4ec06052861d7
+timeCreated: 1541730542
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Powerup/PowerupIcon/SpeedPowerupIcon.prefab
+  uploadId: 476195

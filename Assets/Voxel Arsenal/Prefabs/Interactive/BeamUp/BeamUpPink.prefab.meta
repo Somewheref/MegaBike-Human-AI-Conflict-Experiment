@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25de2e79eeec68e4b8770f699c19f734
+timeCreated: 1532367683
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/BeamUp/BeamUpPink.prefab
+  uploadId: 476195

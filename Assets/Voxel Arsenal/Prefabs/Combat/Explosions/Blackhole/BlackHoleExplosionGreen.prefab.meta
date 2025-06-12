@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28e1a270b7ac72548824c2de563e4898
+timeCreated: 1542640403
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Blackhole/BlackHoleExplosionGreen.prefab
+  uploadId: 476195

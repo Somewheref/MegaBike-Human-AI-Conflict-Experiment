@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f73e146cd0286c45ac757c368a77054
+timeCreated: 1546374242
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Sound/Prefabs/Missiles/VoxelLiquidAcidMissileSND.prefab
+  uploadId: 476195

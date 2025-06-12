@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a733428f37c5b1b42881f359f8c48c0a
+timeCreated: 1545065333
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Beam/Static Beam/VoxelStaticBeamPink.prefab
+  uploadId: 476195

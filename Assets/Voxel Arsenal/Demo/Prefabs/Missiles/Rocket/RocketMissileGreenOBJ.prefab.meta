@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3257473fbe90f134ea593ca99160dd19
+timeCreated: 1532448651
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Prefabs/Missiles/Rocket/RocketMissileGreenOBJ.prefab
+  uploadId: 476195

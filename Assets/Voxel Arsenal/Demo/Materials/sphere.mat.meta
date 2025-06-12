@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b88f876478e004b4b9fdfdc7a6e63b9a
+timeCreated: 1531598920
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Materials/sphere.mat
+  uploadId: 476195

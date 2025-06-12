@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed38409aaa995994cb20b33605f881eb
+timeCreated: 1541899469
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Materials/Solids/Other/Old Powerups/VoxelPowerupStar.mat
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60377d30a47bed746aaae128aa2bf508
+timeCreated: 1543579088
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Nuke/NukeMissileRed.prefab
+  uploadId: 476195

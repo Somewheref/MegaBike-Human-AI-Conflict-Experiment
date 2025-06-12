@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abf847a8281a13b4ebaf32cc98f74e17
+timeCreated: 1546374243
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Sound/Prefabs/Missiles/VoxelLightningMissileSND.prefab
+  uploadId: 476195

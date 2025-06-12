@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9290cf34b9ed64c48a1eb91c9948fa1c
+timeCreated: 1544022514
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Rocket/RocketMissileRed.prefab
+  uploadId: 476195

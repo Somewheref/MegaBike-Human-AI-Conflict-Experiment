@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42df6c29243d76842bcfb057166358e8
+timeCreated: 1544198748
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Laser/LaserMuzzleRed.prefab
+  uploadId: 476195

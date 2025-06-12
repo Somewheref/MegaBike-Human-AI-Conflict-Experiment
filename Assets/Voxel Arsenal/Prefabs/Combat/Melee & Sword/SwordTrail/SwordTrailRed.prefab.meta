@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c1be7a238c32304d937cc00cbbdd490
+timeCreated: 1545445497
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Melee & Sword/SwordTrail/SwordTrailRed.prefab
+  uploadId: 476195

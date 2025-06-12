@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b63e11287e9014d4ab49131127fd47e1
+timeCreated: 1542641317
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Fireball/FireballExplosionYellow.prefab
+  uploadId: 476195

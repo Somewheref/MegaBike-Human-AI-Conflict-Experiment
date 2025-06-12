@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 772477ecc601e4b41b1b564236266dad
+timeCreated: 1544708696
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Sparks/Once/SparkRadialOncePurple.prefab
+  uploadId: 476195

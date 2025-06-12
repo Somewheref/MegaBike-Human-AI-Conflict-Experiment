@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de936e77abf67504ca1f6b43320f2dd6
+timeCreated: 1545064874
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Beam/Setup/Yellow/VoxelBeamEndYellow.prefab
+  uploadId: 476195

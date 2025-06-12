@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1febe1f57726fcf4990b0b6b8673af3d
+timeCreated: 1544221516
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Regenerate/RegenerateRed.prefab
+  uploadId: 476195

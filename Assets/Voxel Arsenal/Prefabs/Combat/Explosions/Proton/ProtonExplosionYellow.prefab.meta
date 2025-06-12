@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 232b415992ea7064db7dbc2acfdc40b6
+timeCreated: 1545157230
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Proton/ProtonExplosionYellow.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d8e5463e3993f443b37050946578070
+timeCreated: 1542824925
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Antimatter/AntimatterMissileGreen.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb2e6154876aeea4da011ace7e18b062
+timeCreated: 1544377941
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/BlackHole/BlackHolePink.prefab
+  uploadId: 476195

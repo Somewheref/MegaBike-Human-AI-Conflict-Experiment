@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67937470ce271e54b90c02d81a834e5d
+timeCreated: 1542896004
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Antimatter/AntimatterMissileRed.prefab
+  uploadId: 476195

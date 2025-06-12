@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52550479eca84a046b656d7ee3eb33b0
+timeCreated: 1535725434
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Grenade/GrenadeExplosionBlue.prefab
+  uploadId: 476195

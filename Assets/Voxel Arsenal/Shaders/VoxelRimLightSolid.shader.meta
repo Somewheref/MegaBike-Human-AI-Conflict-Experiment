@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2ec85bf09cdff614a8f64019a0ccd846
+timeCreated: 1536079809
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Shaders/VoxelRimLightSolid.shader
+  uploadId: 476195

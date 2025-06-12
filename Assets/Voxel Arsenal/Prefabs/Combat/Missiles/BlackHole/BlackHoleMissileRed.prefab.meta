@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f738c89f850f36f43bf4904b45befdde
+timeCreated: 1542896446
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/BlackHole/BlackHoleMissileRed.prefab
+  uploadId: 476195

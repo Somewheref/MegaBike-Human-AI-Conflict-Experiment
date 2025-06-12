@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ddb5748440c54e4f8f8490027b678df
+timeCreated: 1532448651
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Prefabs/Missiles/Proton/ProtonMissileBlueOBJ.prefab
+  uploadId: 476195

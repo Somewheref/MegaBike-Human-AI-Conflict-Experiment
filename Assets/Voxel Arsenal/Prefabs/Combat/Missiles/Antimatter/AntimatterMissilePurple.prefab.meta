@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a8280a68beb6f04a892fcf0ef42673c
+timeCreated: 1542825980
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Antimatter/AntimatterMissilePurple.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c36e23128f9d7604da87c944f64be19b
+timeCreated: 1544220555
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Sparkle/SparkleMuzzleYellow.prefab
+  uploadId: 476195

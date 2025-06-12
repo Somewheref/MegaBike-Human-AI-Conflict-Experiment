@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67008c279dc86e04ca54e570d0bca10e
+timeCreated: 1544221011
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Muzzleflash/Spike/SpikeMuzzlePink.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68d00f5905eb9c347a20fc5737e860f5
+timeCreated: 1542821688
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Explosions/Sniper/SniperExplosionPink.prefab
+  uploadId: 476195

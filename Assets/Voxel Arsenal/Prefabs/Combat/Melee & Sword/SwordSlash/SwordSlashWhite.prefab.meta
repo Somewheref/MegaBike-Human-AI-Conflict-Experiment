@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f7ed59f539f79943acd479d16099e04
+timeCreated: 1545624408
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Melee & Sword/SwordSlash/SwordSlashWhite.prefab
+  uploadId: 476195

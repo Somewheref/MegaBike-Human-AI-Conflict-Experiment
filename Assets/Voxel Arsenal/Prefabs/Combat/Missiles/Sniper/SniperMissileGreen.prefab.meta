@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5818744ecd717494b8bd0a9052e78e6f
+timeCreated: 1544026611
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Sniper/SniperMissileGreen.prefab
+  uploadId: 476195

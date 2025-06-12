@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3ab35081a52c0e418eb74fa6cd14cb6
+timeCreated: 1535730837
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Materials/Gradients/Additive/VoxelVerticalGlow3Additive.mat
+  uploadId: 476195

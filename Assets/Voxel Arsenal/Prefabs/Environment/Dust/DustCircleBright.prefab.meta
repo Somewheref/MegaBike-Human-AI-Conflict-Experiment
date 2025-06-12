@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7be84c5a6d280e747aed0cc219bf89a6
+timeCreated: 1539696915
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Dust/DustCircleBright.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46adba5c980aae1449cdde0908f6eb19
+timeCreated: 1546369550
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Sound/Prefabs/Explosions/VoxelAntimatterExplosionSND.prefab
+  uploadId: 476195

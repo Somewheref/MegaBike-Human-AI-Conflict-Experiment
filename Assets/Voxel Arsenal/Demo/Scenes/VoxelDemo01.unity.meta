@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0b791ee4b389c8489113bb0f39271c8
+timeCreated: 1531602163
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Demo/Scenes/VoxelDemo01.unity
+  uploadId: 476195

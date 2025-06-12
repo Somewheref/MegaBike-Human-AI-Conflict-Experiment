@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf507ff0e187c81499c78d2ccbdf1c3a
+timeCreated: 1544279337
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Shield/ShieldGreen.prefab
+  uploadId: 476195

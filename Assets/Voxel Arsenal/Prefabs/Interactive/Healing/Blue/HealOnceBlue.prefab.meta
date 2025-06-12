@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae0170c07af48b24082e37164a97d141
+timeCreated: 1547562045
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Healing/Blue/HealOnceBlue.prefab
+  uploadId: 476195

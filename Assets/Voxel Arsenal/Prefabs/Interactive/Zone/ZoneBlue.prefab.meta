@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d27be493445942645a1322a1fb75872b
+timeCreated: 1535816691
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Zone/ZoneBlue.prefab
+  uploadId: 476195

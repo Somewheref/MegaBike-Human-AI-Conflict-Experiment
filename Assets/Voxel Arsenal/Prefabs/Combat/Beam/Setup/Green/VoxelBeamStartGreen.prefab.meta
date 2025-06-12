@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e30b2946da18c4418f0031a81fdb620
+timeCreated: 1545064658
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Beam/Setup/Green/VoxelBeamStartGreen.prefab
+  uploadId: 476195

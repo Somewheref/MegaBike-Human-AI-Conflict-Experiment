@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4aca8ddb48a34124184291d6fabf5a82
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236341
+  packageName: UI Pack - Neumorph 1 - Doozy UI Addon
+  packageVersion: 2.0.1
+  assetPath: Assets/Doozy/_UI Packs/Neumorph One/_Prefabs/Components/Progress Bars/Progress
+    Bar In Rounded/Progress Indicator (Large).prefab
+  uploadId: 611681

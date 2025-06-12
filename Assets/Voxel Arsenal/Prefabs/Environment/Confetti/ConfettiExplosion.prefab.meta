@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca9e69f10cb0a854e9b9a5ce598e3c68
+timeCreated: 1539960129
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Environment/Confetti/ConfettiExplosion.prefab
+  uploadId: 476195

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aec88c5b9cb71764289ddd9432e9daac
+timeCreated: 1543336419
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Missiles/Fireball/FireballMissileRed.prefab
+  uploadId: 476195

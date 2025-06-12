@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 25697b6ce7367a449a910cd5f21b3ee3
+timeCreated: 1540739970
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Combat/Shield/ShieldBlue.prefab
+  uploadId: 476195

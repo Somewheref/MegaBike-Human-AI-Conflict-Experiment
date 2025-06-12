@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d96d29954671e7246b73de6af28aaf49
+timeCreated: 1547561940
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136540
+  packageName: Voxel Arsenal
+  packageVersion: 1.12
+  assetPath: Assets/Voxel Arsenal/Prefabs/Interactive/Healing/Yellow/HealNovaYellow.prefab
+  uploadId: 476195

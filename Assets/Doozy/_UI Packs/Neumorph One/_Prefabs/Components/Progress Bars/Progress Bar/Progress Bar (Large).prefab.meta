@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 290f1a3f950164743b331bad8e3d5433
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 236341
+  packageName: UI Pack - Neumorph 1 - Doozy UI Addon
+  packageVersion: 2.0.1
+  assetPath: Assets/Doozy/_UI Packs/Neumorph One/_Prefabs/Components/Progress Bars/Progress
+    Bar/Progress Bar (Large).prefab
+  uploadId: 611681
